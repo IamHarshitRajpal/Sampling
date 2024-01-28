@@ -3,9 +3,9 @@ SAMPLING- UCS654<br>
 <h2>Harshit Rajpal:102103683</h2>
 
 <h1>MODELS USED</h1>:
-<ol><li>Logistic Regresstion</li>
+<ol><li>Logistic Regression</li>
 <li>K-Nearest Neighbors</li>
-<li> GradientBoosting</li>
+<li> Gradient Boosting</li>
 <li>Gaussian Naive Bayes</li>
 <li>Support Vector Classifier</li>
 </ol>
